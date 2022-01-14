@@ -27,6 +27,10 @@ The second step is run the app
 
 * ``` python -m flask run ```
 
+## Logging
+
+
+* When creating a user these logs will be recorded in a file called log.log
 
 ### Resources 📋
 
