@@ -2,7 +2,7 @@ import sqlite3 as sql
 """ File that create the database,
 the path of DB_PATH will be a path abosulte since your root
 """
-DB_PATH = "YourPath"
+DB_PATH = "YourPath/coink/database/user.db"
 
 
 def create_db():
